@@ -1,0 +1,10 @@
+Matthew Krause
+1280
+1285 (wednesday 9:00)
+1
+10/2
+10/2
+node.java
+pw_check.java
+no, nullpointer exception when building the tri, does not handle 1 as i/l
+the rest of the program should work, though it does not build the tables it only checks the sent password.
